@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1684209846",
+        "cacheTag": "1684211760",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -49,7 +49,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "SMP - overworld",
-            "last_rendertime": 1684121415,
+            "last_rendertime": 0,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -66,7 +66,9 @@ var overviewerConfig = {
                 101,
                 0
             ],
-            "north_direction": 0
+            "north_direction": 0,
+            "render_in_progress": true,
+            "forcerendertime": 1684211747
         },
         {
             "name": "Overwold Nighttime",
@@ -77,7 +79,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "SMP - overworld",
-            "last_rendertime": 1684121415,
+            "last_rendertime": 0,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -94,7 +96,9 @@ var overviewerConfig = {
                 101,
                 0
             ],
-            "north_direction": 0
+            "north_direction": 0,
+            "render_in_progress": true,
+            "forcerendertime": 1684211747
         }
     ]
 };
